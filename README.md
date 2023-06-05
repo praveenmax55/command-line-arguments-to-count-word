@@ -26,7 +26,7 @@ Now iterate through the variable and increase the count: and print the count vi
 ## PROGRAM:
 ```python
 #Developed By:- Praveen D
-#Register number:-22005917
+#Register number:-212222240076
 import sys
 count =0
 with open(sys.argv[1],'r') as f:
